@@ -1,0 +1,6 @@
+range:
+  min: 1
+  max: 15
+
+guesses: 5
+
